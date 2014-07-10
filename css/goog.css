@@ -1,6 +1,6 @@
 li{
   display: inline;
-  padding-right: 20px;
+  padding-right: 15px;
   /*display: none;*/
 }
 
@@ -12,16 +12,16 @@ nav{
 .button{}
 
 .logo{
-  clear:both;
+  clear: both;
+
 }
 
 #search{}
 
 #sbuttons{}
 
-#footer{
-  margin-bottom: 0px;
-  background-color:#F2F2F2;
+footer{
+  background-color: #F2F2F2;
 }
 .left{
   float: left;
