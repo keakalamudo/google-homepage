@@ -1,4 +1,16 @@
-#nav{}
+li{
+  display: inline;
+}
+#nav{
+  display: none;
+  padding-right:15px;
+  text-align: right;
+  left: 20px;
+  height: 24px;
+  width: 167px;
+  margin-right: 0px;
+}
+.button{}
 .logo{}
 #search{}
 #sbuttons{}
