@@ -14,6 +14,10 @@ li{
 .logo{}
 #search{}
 #sbuttons{}
-#footer{}
+  
+#footer{
+  margin-bottom: 0px;
+  background-color:
+}
 .left{}
 .right{}
