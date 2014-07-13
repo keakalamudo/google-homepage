@@ -20,6 +20,9 @@ nav{
 
 #sbuttons{}
 
+#fbar{
+  line-height: 40px;
+}
 .googGrey{
   background-color: #F2F2F2;
 }
