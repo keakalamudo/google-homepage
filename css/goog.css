@@ -18,7 +18,9 @@ nav{
 
 #search{}
 
-#sbuttons{}
+#sbuttons{
+  display: inline-block;
+}
 
 #fbar{
   line-height: 40px;
