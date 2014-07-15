@@ -8,8 +8,6 @@ nav{
   float: right;
 }
 
-.button{}
-
 .logo{
   clear: both;
 
@@ -21,14 +19,13 @@ button{
   display: inline-block;
   border: 1px solid #dcdcdc;
   font-size: 11px;
+  background-color: #F2F2F2;
 }
 
 #fbar{
   line-height: 40px;
 }
-.googGrey{
-  background-color: #F2F2F2;
-}
+
 
 .left{
   float: left;
