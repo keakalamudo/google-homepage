@@ -18,7 +18,7 @@ nav{
 #search{}
 
 button{
-  display: inline;
+  display: inline-block;
   border: 1px solid #dcdcdc;
   font-size: 11px;
 }
